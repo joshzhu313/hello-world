@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Hi Josh here! This is a test for different branches on repositories.
+Hi Josh here! I am testing different branches on repositories.
